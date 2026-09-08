@@ -1,0 +1,16 @@
+# Секреты
+.env
+
+# Виртуальное окружение
+.venv/
+
+# Кэш Python
+__pycache__/
+*.pyc
+
+# Данные и артефакты времени выполнения (личные, не должны попадать в репозиторий)
+history.json
+memory.json
+notes.json
+speaker.log
+speech.mp3
